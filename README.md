@@ -2,6 +2,7 @@
 Tasty Treat Express - Online Food Ordering Platform
 
 Overview
+
 Tasty Treat Express is a dynamic and user-friendly online food ordering platform designed to provide a seamless experience for both customers and restaurant owners. The system allows customers to browse menus, place orders, rate restaurants, and track deliveries, while restaurant owners can manage menus, handle orders, and view reports. This project was developed using an Agile methodology and focuses on creating an engaging and efficient platform for all users.
 
 View Project Presentation
